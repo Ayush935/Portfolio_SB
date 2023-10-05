@@ -1,0 +1,49 @@
+.intro{
+    background-color: #343944;
+    overflow: hidden;
+    
+
+    .intro-content{
+        margin: 70px 70px;
+        background-color: #3d4451;
+        display: flex;
+        
+        
+
+        .left {
+                flex: 0.4;
+                
+        
+        
+                .img-container {
+                    width: 700px;
+                    height: 700px;
+                    margin: 120px 100px;
+                    
+        
+                    img {
+                        height: 50%;
+                        
+                    }
+                }
+
+
+            }
+        
+                .right {
+                    flex: 0.6;
+                    display: flex;
+                    flex-direction: column;
+                    
+                    .right-content{
+                        margin-top: 150px;
+                        
+                    }
+                }
+   
+            
+
+    
+}
+
+}
